@@ -7,9 +7,9 @@ console.log("呵呵呵 测试");
 
 
 
-console.log("呵呵呵 测试");
+// console.log("呵呵呵 测试");
 
-console.log("呵呵呵 sssss");
+// console.log("呵呵呵 sssss");
 
 function a() {
 
